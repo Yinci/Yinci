@@ -4,9 +4,9 @@ Yinci's the name and coding is the game! I'm a Dutch developer who enjoys creati
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/ConrDev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yinci&hide=java,html,tex&langs_count=3&count_private=true&theme=merko" alt="Yinci's Language Stats" />
+<a href="https://github.com/Yinci">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yinci&hide=java,html,tex&langs_count=5&theme=merko&layout=compact" alt="Yinci's Language Stats" />
 </a>
-<a href="https://github.com/ConrDev">
+<a href="https://github.com/Yinci">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yinci&show_icons=true&line_height=27&count_private=true&theme=merko" alt="Yinci's GitHub Stats" />
 </a>
