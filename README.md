@@ -12,7 +12,7 @@ Yinci's the name and coding is the game! I'm a Dutch developer who enjoys creati
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Livewire&logo=livewire&logoColor=white&label=&color=FB70A9)
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Inertia&logo=inertia&logoColor=white&label=&color=9553E9)
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=TailwindCSS&logo=tailwindcss&logoColor=37bdf7&label=&color=white)
-![](https://img.shields.io/static/v1?style=for-the-badge&message=React.Js/Native&logo=react&logoColor=333&label=&color=61dbfb)
+![](https://img.shields.io/static/v1?style=for-the-badge&message=React.Js&logo=react&logoColor=333&label=&color=61dbfb)
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Vue.Js&logo=vue.js&logoColor=white&label=&color=41b883)
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=NEXT.Js&logo=next.js&logoColor=333&label=&color=white)
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Alpine.Js&color=222222&logo=Alpine.js&logoColor=8BC0D0&label=)
